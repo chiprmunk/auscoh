@@ -1,0 +1,10 @@
+AUSCoherent386 UNIX BBS Software rewrite - written by wayne a j craig (xenon@aus.org)
+Sept 21, 2016 - initial rewrite started
+Feb  18, 2017 - moddified src - got rid of bugs in compile,added exit command
+                added ln variable for linenumber definition
+                added strtok-inizer functionality for command checking
+                added command structure for message command control (defines)
+                added cooked keyboard cooked.c
+ 
+
+
